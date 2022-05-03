@@ -1,3 +1,3 @@
 public class Abc {
-    int a = 12345;
+    int a = 123456;
 }
